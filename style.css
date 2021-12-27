@@ -1,0 +1,37 @@
+div{
+    width: 600px;
+    height: 400px;
+    position: relative;
+    background-image: url("https://htmlbase.ru/storage/app/media/position-task1/bg.jpg");
+}
+.space{
+    position: absolute;
+}
+.planet-1{
+    top: 40px;
+    left: 225px;
+}
+.planet-2{
+    top: 80px;
+    left: 87px;
+}
+.spaceship{
+    top: 170px;
+    left: 180px;
+}
+.planet-3{
+    top: 160px;
+    left: 180px;
+}
+.ufo{
+    top: 310px;
+    left: 150px;
+}
+.superman{
+    bottom: 0px;
+    right: 36px;
+}
+.ast{
+    top: 100px;
+    right: 85px;
+}
